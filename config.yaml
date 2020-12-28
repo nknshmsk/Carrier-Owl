@@ -3,6 +3,8 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        anomaly detection: 3
+        generative adversarial network: 2
+        GAN: 2
+        segmentation: 2
+        image: 1
